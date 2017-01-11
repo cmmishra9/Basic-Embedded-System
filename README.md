@@ -2,8 +2,11 @@
 Embedded Systems (Basic)
 
 Module 1: PCB Designing (Simulation + 1 Mini Project)
+
 Module 2: Circuit Designing (Simulation with ICs)
+
 Module 3: Introduction to Embedded Systems (Theory+Hands on Kit Training)
+
 Module 4: Major project
 
 -> Module 1: PCB Designing (Simulation)
